@@ -3,7 +3,7 @@ public class Point {
     private int y; // y-coordinate
 /* A- Write a constructor to set the coordinates of the point to two specific
 values x1 and y1 which are passed from the driver. */
-    public void Point (int x1, int y1){
+    public Point (int x1, int y1){
         x = x1;
         y = y1;
     }

@@ -1,8 +1,8 @@
 public class PointTest {
     public static void main(String[] args) {
         /* H- Declare 2 points:p1 with coordinates (0,0) and p2 with coordinates (2,3). */
-        Point pointObj = new Point();
-        Point p1 = pointObj.Point(0,0);
+        Point p1 = new Point(0, 0);
+        Point p2 = new Point(2, 3);
         /* I- Write the necessary statement(s) to display the coordinates of p1 and p2. */
         /* J- Write a statement to reverse the coordinates of p2. */
 /* K- Write the necessary statement(s) to set the coordinates of p1 to be the reverse
